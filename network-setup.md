@@ -1,8 +1,7 @@
 Routers: 
-    Router0 ISR4321
+    Router ISR4321
 Switches:
-    Switch0 2960-24TT
-    Switch1 2960-24TT
+    Switch 2960-24TT
 End-Devices:
     PC-PT
     Laptop-PT
@@ -14,6 +13,7 @@ Switch0:
     Devices Assigned: 
         PC0: 168.90.0.5
         PC1: 168.90.0.3
+        PC3: 168.90.0.6
         Laptop0: 168.90.04
         Server0: 168.90.0.2
 Switch1:
@@ -23,4 +23,6 @@ Switch1:
         Server1: 210.3.14.2
         Server2: 210.3.14.3
         PC2: 210.3.14.4
+        PC4: 210.3.14.5
+        
         
